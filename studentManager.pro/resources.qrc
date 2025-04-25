@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="桂电小标">img/logo.png</file>
+        <file>img/logo2.png</file>
+        <file>img/tree.jpg</file>
+        <file>img/道路.jpg</file>
+        <file>img/高拍-雾环绕.jpg</file>
+        <file>img/广角校园.jpg</file>
+        <file>img/黄昏校园.jpg</file>
+        <file>img/鸟.jpg</file>
+        <file>img/十七教学楼.jpg</file>
+        <file>img/体育馆.jpg</file>
+    </qresource>
+</RCC>
